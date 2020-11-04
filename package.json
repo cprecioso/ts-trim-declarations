@@ -1,6 +1,6 @@
 {
   "name": "ts-trim-declarations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom transformer for [TypeScript](https://www.typescriptlang.org/) that removes type declarations with `/** @internal */` JSDoc comments (or whatever other tags you specify!). Inspired by [`@microsoft/api-extractor`](https://api-extractor.com/).",
   "keywords": [
     "rollup",
