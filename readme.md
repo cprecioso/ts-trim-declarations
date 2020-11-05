@@ -48,8 +48,6 @@ will output the following `source.d.ts`:
  }
 ```
 
-**but!** with this module it will
-
 ## Installation
 
 ```sh
